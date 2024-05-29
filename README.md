@@ -1,10 +1,14 @@
 # Facial-Emotion-Recognition-Using-CNN
 Designed and implemented a deep learning model to accurately detect and classify facial emotions.
 ## Project Overview
-This project involves the development of a Facial Emotion Recognition system using Convolutional Neural Networks (CNN). The system is designed to detect and classify facial emotions accurately.
+This project involves the development of a Facial Emotion Recognition system using Convolutional Neural Networks (CNN). 
+The system is designed to detect and classify facial emotions accurately.
+
+![p1](https://github.com/Ramu3218/Maze-Solving-Using-Java/assets/96521492/72380941-f734-423e-8be2-82a012e6082a)
+
 
 ## Features
-Deep Learning Model: Utilizes a CNN model developed using TensorFlow/Keras.
+Deep Learning Model: Utilizes a CNN model developed using TensorFlow,keras.
 Emotion Detection: Classifies emotions such as happiness, sadness, surprise, anger, and more.
 Real-Time Detection: Integrates with a webcam for real-time emotion detection using OpenCV.
 High Accuracy: Achieved 92% on the FER-2013 dataset.
